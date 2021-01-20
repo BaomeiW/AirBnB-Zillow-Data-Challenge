@@ -7,8 +7,11 @@ The objective of this project is to investigate best areas (zipcode) in New York
 ## **Data source:**
 
 AirBnB data: 
+
 http://data.insideairbnb.com/united-states/ny/new-york-city/2017-05-02/data/listings.csv.gz
+
 Zillow data:
+
 Zip_Zhvi_2bedroom.csv
 
 ## **Abstract:**
